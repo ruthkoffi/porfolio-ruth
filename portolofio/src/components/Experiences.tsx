@@ -10,6 +10,7 @@ import imgTAILWIND from "../assets/techno/tailwind.png";
 import imgPHP from "../assets/techno/PHP.jpeg";
 import imgLARAVEL from "../assets/techno/Laravel.jpeg";
 import imgREACTNATIVE from "../assets/techno/React JS .jpeg";
+import imgSQL from "../assets/techno/sql1.jpeg";
 
 import black from "../assets/companies/black.jpeg";
 import srvinfo from "../assets/companies/srvinfo.jpeg";
@@ -26,6 +27,7 @@ const skills = [
      { id: 4, name: "ReactNative", image: imgREACTNATIVE },
     { id: 6, name: "Tailwind CSS", image: imgTAILWIND },
     { id: 7, name: "TypeScript", image: imgTYPE },
+    { id: 8, name: "MySQL", image: imgSQL },
 
    
 ];
@@ -49,7 +51,7 @@ const experiences = [
         period: "Septembre 2023 - Juillet 2024",
         description: [
             "Récensement et dispatching du matériels informatique et électrique",
-            "Utilisation de l'outils excel pour les tableaux de recensements et les dévis",
+            "Utilisation de l'outils Excel pour la réalisations les tableaux de récensements et les dévis",
         ],
         image: black,
     },
@@ -58,7 +60,7 @@ const experiences = [
 
 const Experiences = () => {
   return (
-    <div className="bg-gray-200 p-10 mb-10 md:mb-32">
+    <div className="bg-gray-200 p-10 mb-10 md:mb-32" id="Experiences">
         <Title title="Expériences" />
         <div className="flex flex-col-reverse md:flex-row justify-center items-center">
         {/* <div className="flex  flex-col-reverse md:flex-row justify-center items-center"> */}
