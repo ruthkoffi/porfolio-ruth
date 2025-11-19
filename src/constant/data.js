@@ -98,7 +98,7 @@ export const ResumeItems = [
         time: "En cours",
       },
       {
-        label: "Développement fullStack Orienté Entrepreneuriat",
+        label: " Certificat en Développement fullStack Orienté Entrepreneuriat",
         role: "DigiFemmes Academy",
         time: " Mars 2025",
       },

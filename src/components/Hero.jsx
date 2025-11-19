@@ -45,7 +45,7 @@ const Hero = () => {
             variants={variants.fadeInUp}
             className="max-w-[820px] mx-auto mt-4 mb-6 text-xl font-semibold"
           >
-             Je m'appelle Ruth , je suis développeur front-end et je conçois des expériences numériques fluides
+             Je m'appelle Ruth , je suis développeur FullStack et je conçois des expériences numériques fluides
             grâce à un code innovant et un design intuitif. Fort de mon
             expertise dans les technologies de pointe et de ma passion pour l'optimisation des performances
             , je transforme des exigences commerciales complexes en
