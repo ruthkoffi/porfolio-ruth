@@ -17,7 +17,7 @@ export const navItems = [
   },
   {
     id: 3,
-    label: "Resume",
+    label: "Resumé",
     href: "#resume",
   },
   {
@@ -50,7 +50,7 @@ export const heroIcons = [
 export const aboutItems = [
   {
     id: 1,
-    label: "Développement FrontEnd ",
+    label: "Développement FrontEnd (HTML; CSS, ) ",
   },
   {
     id: 2,
